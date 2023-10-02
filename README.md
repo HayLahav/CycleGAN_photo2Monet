@@ -1,6 +1,6 @@
 # CycleGAN_photo2Monet - Kaggle competition
 
-CycleGAN_photo2Monet is a project that uses CycleGAN, a generative adversarial network (GAN) architecture, to transform photos into Monet paintings. The project is hosted on GitHub and was created by Hay Lahav.
+CycleGAN_photo2Monet is a project that uses CycleGAN, a generative adversarial network (GAN) architecture, to transform photos into Monet paintings.
 
 The CycleGAN model consists of two generators and two discriminators. The generators are responsible for transforming photos into Monet paintings and vice versa. The discriminators are responsible for distinguishing between real photos and fake photos, as well as between real Monet paintings and fake Monet paintings.
 

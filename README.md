@@ -2,7 +2,8 @@
 
 CycleGAN_photo2Monet is a project that uses CycleGAN, a generative adversarial network (GAN) architecture, to transform photos into Monet paintings.
 
-![Uploading image.png…]()
+![image](https://github.com/HayLahav/CycleGAN_photo2Monet/assets/111200362/145d1c8d-e2d7-4962-8522-8eee7c25fa0e)
+
 
 The CycleGAN model consists of two generators and two discriminators. The generators are responsible for transforming photos into Monet paintings and vice versa. The discriminators are responsible for distinguishing between real photos and fake photos, as well as between real Monet paintings and fake Monet paintings.
 
